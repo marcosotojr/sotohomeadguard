@@ -27,3 +27,13 @@
 ||discord.com^
 ||discord.gg^
 ||discordapp.com^
+
+||coolgamesonline.io^
+||coolgamesfree.org^
+||primarygames.com^
+||crazygames.com^
+||poki.com^
+||addictinggames.com^
+||pogo.com^
+||playhop.com^
+||playhop.com^
